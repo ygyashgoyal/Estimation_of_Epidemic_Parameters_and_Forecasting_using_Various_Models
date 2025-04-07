@@ -41,7 +41,7 @@ Each simulation involves:
 ## 📄 Final Report
 
 The complete methodology, figures, equations, and interpretation are documented in  
-📌 [`IP_Project_Parameter_Uncertainty_on_Epidemiology.pdf`](./IP_Project_Parameter_Uncertainty_on_Epidemiology.pdf)
+📌 [`IP_Project_Parameter_Uncertainty_on_Epidemiology.pdf`](./Report/IP_Project_Parameter_Uncertainty_on_Epidemiology.pdf)
 
 ## 🛠 Tools & Environment
 
